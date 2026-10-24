@@ -79,7 +79,7 @@ Umbral de decisión — capturar más fraude a costa de más falsos positivos:
 
 ## Cómo ejecutar
 
-El dataset es grande; se recomienda ejecutarlo en [Google Colab](https://colab.research.google.com/github/alpc-data-analyst/fraud-detection-ieee-cis/blob/main/deteccion_fraude.ipynb) (RAM gratuita, sin instalar nada en local).
+El dataset es grande; se recomienda ejecutarlo en [Google Colab](https://colab.research.google.com/github/antonioluisperez/fraud-detection-ieee-cis/blob/main/deteccion_fraude.ipynb) (RAM gratuita, sin instalar nada en local).
 
 ```bash
 pip install opendatasets pandas numpy matplotlib seaborn scikit-learn xgboost shap

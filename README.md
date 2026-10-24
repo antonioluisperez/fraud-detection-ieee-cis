@@ -79,7 +79,7 @@ Decision threshold — catching more fraud at the cost of more false positives:
 
 ## How to run
 
-The dataset is large; running on [Google Colab](https://colab.research.google.com/github/alpc-data-analyst/fraud-detection-ieee-cis/blob/main/deteccion_fraude.ipynb) is recommended (free RAM, no local setup).
+The dataset is large; running on [Google Colab](https://colab.research.google.com/github/antonioluisperez/fraud-detection-ieee-cis/blob/main/deteccion_fraude.ipynb) is recommended (free RAM, no local setup).
 
 ```bash
 pip install opendatasets pandas numpy matplotlib seaborn scikit-learn xgboost shap
